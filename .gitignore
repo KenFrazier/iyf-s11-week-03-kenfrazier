@@ -1,3 +1,4 @@
+# Ignore files not needed in version control
 # Dependencies
 node_modules/
 
